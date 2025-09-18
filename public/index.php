@@ -24,5 +24,7 @@ require_once __DIR__ . '/../config/config.php';
 <body>
      <?php include __DIR__ . '/../includes/header.php';?>
      <?php include __DIR__ . '/../includes/footer.php';?>
+
+     <section>mange mon paff</section>
 </body>
 </html>
